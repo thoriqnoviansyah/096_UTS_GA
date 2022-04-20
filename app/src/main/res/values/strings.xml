@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">096 UTS GA</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navbottom">navbottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_cari_maps">CariMapsActivity</string>
+    <string name="title_activity_search_maps_location">SearchMapsLocation</string>
+</resources>
